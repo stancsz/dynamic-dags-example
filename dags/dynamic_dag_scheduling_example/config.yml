@@ -1,0 +1,7 @@
+dags:
+  - city_name: "Vancouver"
+    city_id: "6173331"
+    s3_path: "s3://your-bucket/vancouver"
+  - city_name: "Calgary"
+    city_id: "5913490"
+    s3_path: "s3://your-bucket/calgary"

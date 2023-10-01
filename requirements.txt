@@ -1,0 +1,7 @@
+requests
+pandas
+scikit-learn
+apache-airflow
+boto3
+fastavro
+PyYAML
